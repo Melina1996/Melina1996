@@ -1,7 +1,17 @@
-### Hi there, welcome to my Profile👋
+![Colorful Modern Skincare Review LinkedIn Banner](https://github.com/Melina1996/Melina1996/assets/150130472/11ae235a-e9b8-4d9a-af43-99aafdd0d956)
+
+<h2>Hi there, welcome to my Profile  🚀 </h2> 
 
 <div align="start">
-  <p>My name is Melina and I just recently started a FRONT-END Coding course at <a href="https://molengeek.com/">MolenGeek</a>!</p>
+  
+<p>My name is Melina and I just recently started a FRONT-END course at the coding school <a href="https://molengeek.com/">MolenGeek</a> in Brussels, Belgium.</p>
+
+<h2>ABOUT ME</h2> 
+
+<p>Unfulfilled in my previous job, I decided in 2023 to completely reorient myself towards web development. A field that had always interested me, but was completely new to me.</p>
+
+<p>Molengeek allowed me to discover qualities that I had not known existed until then.</p>
+  
 </div>
 
 <div align="center">
