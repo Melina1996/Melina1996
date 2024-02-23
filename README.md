@@ -12,18 +12,23 @@
 
 <p>Molengeek allowed me to discover qualities that I had not known existed until then.</p>
 
+<h2 align="start">SKILLSET</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,git,ai,notion,figma" />
+  </a>
+</p>
+
+</div>
+
+<div align="start">
 
 <h2>PROJECTS</h2>
-
 
 JS REACT: <a href="https://melina1996.github.io/eShopy/">E-SHOP</a> 🍬 <a href="https://melina1996.github.io/SCISSORS-ROCK-PAPER/">SCISSORS-ROCK-PAPER</a> 👊 <a href="https://melina1996.github.io/TO-DO-LIST/">TO-DO-LIST</a>  ✅ 
 
 JS VANILLA: <a href="https://melina1996.github.io/MOLENGEEK/">WEBSITE MOLENGEEK</a> 💚 <a href="https://melina1996.github.io/MEMORY-GAME/">MEMORY</a> 🃏
-
-  
-</div>
-
-
 
 </div>
 
