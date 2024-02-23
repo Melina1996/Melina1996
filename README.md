@@ -11,11 +11,24 @@
 <p>Unfulfilled in my previous job, I decided in 2023 to completely reorient myself towards web development. A field that had always interested me, but was completely new to me.</p>
 
 <p>Molengeek allowed me to discover qualities that I had not known existed until then.</p>
+
+
+<h2>PROJECTS</h2>
+
+
+JS REACT: <a href="https://melina1996.github.io/eShopy/">E-SHOP</a> 🍬
+
+JS REACT: <a href="https://melina1996.github.io/SCISSORS-ROCK-PAPER/">SCISSORS-ROCK-PAPER</a> 👊
+
+JS VANILLA: <a href="https://melina1996.github.io/MEMORY-GAME/">MEMORY</a> 🃏
+
+
+
+
   
 </div>
 
-<div align="center">
-  
+
 
 </div>
 
