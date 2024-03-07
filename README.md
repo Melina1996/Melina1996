@@ -34,6 +34,13 @@ JS VANILLA: <a href="https://melina1996.github.io/MOLENGEEK/">SCHOOL WEBSITE</a>
 
 <p>Molengeek allowed me to discover qualities that I had not known existed until then.</p>
 
+<h2>REACH ME ON</h2> 
+
+<div align="center">
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melina-schlachter-377231171/) &nbsp;
+
+</div>
 
 <!--
 **Melina1996/Melina1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
