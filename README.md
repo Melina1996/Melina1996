@@ -4,8 +4,7 @@
 
 <div align="start">
   
-<li>Currently enrolled in a FRONT-END course at the coding school <a href="https://molengeek.com/">MolenGeek</a> in Brussels, followed by a BACK-END course right after.</li>
-<li>Looking for an internship in web and/or mobile development - FRONT-END or FULL-STACK - preferably in Brussels, but open to opportunities outside of Belgium. Earliest starting date: September 2024.</li>
+<li>I just finished a FULL-STACK course at the coding school <a href="https://molengeek.com/">MolenGeek</a> in Brussels and am looking for an internship in web and/or mobile development - FRONT-END or FULL-STACK.</li>
 <li>Fluent in German, English, Spanish and French</li>
 
 <h2 align="start">SKILLSET</h2>
