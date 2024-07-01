@@ -21,8 +21,6 @@
 
 <h2>PORTFOLIO INSIGHT</h2>
 
-REACT JS & DJANGO: <a href="https://github.com/Melina1996/Royella_Melina_Schlachter">HOTEL BOOKING PAGE</a> 👑
-
 NEXT JS: <a href="https://bookshop-1b4hdjd5n-melina1996s-projects.vercel.app/">BOOKSHOP</a> 📚
 
 JS REACT: <a href="https://melina1996.github.io/eShopy/">E-SHOP</a> 🍬 <a href="https://melina1996.github.io/SCISSORS-ROCK-PAPER/">SCISSORS-ROCK-PAPER</a> 👊 <a href="https://melina1996.github.io/TO-DO-LIST/">TO-DO-LIST</a>  ✅  <a href="https://melina1996.github.io/ProjetState/">SUBSCRIPTION FORM</a> 📝 <a href="https://melina1996.github.io/space">WEBSITE SPACE</a> 🌚
