@@ -4,7 +4,7 @@
 
 <div align="start">
   
-<li>I just finished a FULL-STACK course at the coding school <a href="https://molengeek.com/">MolenGeek</a> in Brussels and am looking for an internship in web and/or mobile development - FRONT-END or FULL-STACK.</li>
+<li>I just finished a FULL-STACK course at the coding school <a href="https://molengeek.com/">MolenGeek</a> in Brussels and am looking for a junior position or an internship in web and/or mobile development - FRONT-END or FULL-STACK.</li>
 <li>Fluent in German, English, Spanish and French</li>
 
 <h2 align="start">SKILLSET</h2>
